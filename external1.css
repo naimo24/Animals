@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(165, 127, 120);
+    
+}
+h1,h2{
+    color: bisque;
+    font-size: 35px;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+h1{
+    font-size: 40px;
+}
+p{
+    color: rgb(230, 191, 181);
+}
+div{
+    background-color: rgb(128, 95, 89);
+}
+
+img{
+    width: 200;
+    height: 200;
+    border-radius: 10px;
+}
