@@ -1,1 +1,0 @@
-# naimo24.github.io
